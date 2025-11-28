@@ -58,7 +58,7 @@ To prevent performance issues when dealing with 1000+ Pokémon:
 3. ScrollController detects when user is near the end of the list
 4. LoadMorePokemon event is dispatched → next batch is fetched and appended
 
-## 🤝 Generative AI-Assisted Contributions
+# 🤝 Generative AI-Assisted Contributions
 
 AI tools (Gemini / ChatGPT) were leveraged to improve development speed and code quality:
 
@@ -90,7 +90,17 @@ flutter pub get
 flutter run
 ````
 
-## 📸 Screenshots
+# 📸 Screenshots
 
-### Home Screen
-![Home Screen](screenshots/photo_2025-11-28_13-33-30.jpg)
+# Home Screen
+
+![Home Screen](screenshots/photo_6_2025-11-28_15-15-00.jpg)
+![Home Screen](screenshots/photo_7_2025-11-28_15-15-00.jpg)
+![Home Screen](screenshots/photo_8_2025-11-28_15-15-00.jpg)
+
+# Detail Screen
+![Detail Screen](screenshots/photo_2_2025-11-28_15-15-00.jpg)
+![Detail Screen](screenshots/photo_3_2025-11-28_15-15-00.jpg)
+![Detail Screen](screenshots/photo_4_2025-11-28_15-15-00.jpg)
+![Detail Screen](screenshots/photo_5_2025-11-28_15-15-00.jpg)
+![Detail Screen](screenshots/photo_2025-11-28_13-33-30.jpg)
