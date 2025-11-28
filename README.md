@@ -42,6 +42,7 @@ lib/
     ├── bloc/ (module/)   # State management
     ├── screens/          # Home & Details pages
     └── widgets/          # Common UI components
+````
 
 ## State Management (BLoC)
 
@@ -87,13 +88,9 @@ git clone https://github.com/tanbir114/Pokedex_flutter_bloc_cleancode.git
 cd Pokedex_flutter_bloc_cleancode
 flutter pub get
 flutter run
----
+````
 
 ## 📸 Screenshots
 
 ### Home Screen
 ![Home Screen](screenshots/photo_2025-11-28_13-33-30.jpg)
-
-
-
-````
