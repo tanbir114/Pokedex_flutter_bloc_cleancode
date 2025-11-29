@@ -62,17 +62,17 @@ To prevent performance issues when dealing with 1000+ Pokémon:
 
 AI tools (Gemini / ChatGPT) were leveraged to improve development speed and code quality:
 
-### 🚀 Performance
+### 🚀 Performance (Prompt: How can I implement lazy loading or infinite scrolling for a large dataset using Bloc and a ScrollController in Flutter?)
 
 - Suggested & guided implementation of **lazy loading**
 - Result: Smooth infinite scrolling with zero frame drops
 
-### 🎯 Type Effectiveness Logic
+### 🎯 Type Effectiveness Logic (Prompt: Write Dart code and logic to fetch the damage relations among the Pokémons)
 
 - Helped design formula for **combined type multipliers**
 - Result: Accurate damage relations (0×, 0.5×, 2×, 4×)
 
-### For analyzing the API
+### For analyzing the API (Prompt: can you analyse the URL below and tell me which data that can be fetched and how to fetch them)
 
 - Helped in finding out what data can be fetching from the api
 
